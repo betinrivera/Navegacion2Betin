@@ -14,6 +14,8 @@
 		8527AAC2212F3DB3000C0983 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8527AAC0212F3DB3000C0983 /* LaunchScreen.storyboard */; };
 		8527AACD212F3DB3000C0983 /* Navegacion2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8527AACC212F3DB3000C0983 /* Navegacion2Tests.swift */; };
 		8527AAD8212F3DB3000C0983 /* Navegacion2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8527AAD7212F3DB3000C0983 /* Navegacion2UITests.swift */; };
+		8527AAE6212F41D2000C0983 /* PerrosController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8527AAE5212F41D2000C0983 /* PerrosController.swift */; };
+		8527AAE8212F4652000C0983 /* GatosController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8527AAE7212F4652000C0983 /* GatosController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		8527AAD3212F3DB3000C0983 /* Navegacion2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Navegacion2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8527AAD7212F3DB3000C0983 /* Navegacion2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navegacion2UITests.swift; sourceTree = "<group>"; };
 		8527AAD9212F3DB3000C0983 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8527AAE5212F41D2000C0983 /* PerrosController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PerrosController.swift; sourceTree = "<group>"; };
+		8527AAE7212F4652000C0983 /* GatosController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GatosController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				8527AABE212F3DB3000C0983 /* Assets.xcassets */,
 				8527AAC0212F3DB3000C0983 /* LaunchScreen.storyboard */,
 				8527AAC3212F3DB3000C0983 /* Info.plist */,
+				8527AAE5212F41D2000C0983 /* PerrosController.swift */,
+				8527AAE7212F4652000C0983 /* GatosController.swift */,
 			);
 			path = Navegacion2;
 			sourceTree = "<group>";
@@ -260,6 +266,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8527AABA212F3DB2000C0983 /* ViewController.swift in Sources */,
+				8527AAE8212F4652000C0983 /* GatosController.swift in Sources */,
+				8527AAE6212F41D2000C0983 /* PerrosController.swift in Sources */,
 				8527AAB8212F3DB2000C0983 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
